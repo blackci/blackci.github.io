@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[BLACKCi - Ci's Kool]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-01-29T16:36:19+07:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[BLACKCi]]></name>
+    <email><![CDATA[blackci@blackci.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
