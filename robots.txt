@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blackci.github.io/sitemap.xml 
+Sitemap: http://www.blackci.com/sitemap.xml 
