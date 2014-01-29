@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blackci.github.io
+url: http://www.blackci.com
 title: BLACKCi - Ci's Kool
 subtitle: And you go black.
 author: BLACKCi
@@ -61,6 +61,11 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+navigation:
+- text: Home
+  url: /index.html
+- text: Downloads
+  url: /downloads.html
 
 # Github repositories
 github_user:
